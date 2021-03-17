@@ -1,0 +1,11 @@
+FA 5.1 -> da fehlt die allgemeine Behandlung der Exponentialfunktion der Form a*e^l*x -> bzw. dann auch die Info, wie zwischen den beiden Darstellungsformen hin und her gewechselt werden kann. 
+Bei FA5.5 steht zwar was zur Halbwertszeit bzw. Verdopplungszeit - aber wie gesagt, die ganz allgemeine Behandlung dieser Darstellungsform fehlt...
+
+FA 5.3 -> da wäre wie bei den anderen Funktionsarten vielleicht noch eine Folie sinnvoll, wie sich 0<b<1 auswirkt bzw. b>1 und lamda<0 bzw. lamda >0, bzw. überhaupt noch eine folie 
+zur wirkung von e^l - ich hab mal was aus einem buch kopiert
+
+
+Bei FA 5.4 fehlt eine Folie zur Eigenschaft der Ableitung und der Auswirkung und / oder einem Beispiel
+
+Bei FA 5.5 wäre vielleicht noch ein Beispiel sinnvoll, bei dem tau gegeben ist und lamda ausgerechnet werden muss
+
